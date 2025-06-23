@@ -864,10 +864,6 @@ hash = "b55dfeeab67b72e837f945ffe75dc5b5297a359bba6ffc99dc3eae6161dc5ec3"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.2-SpellCircleFork.jar"
-hash = "c30ec1d6847b1e9198b003916f0e129e9db4ea1701dd5936b04e61f414c45643"
-
-[[files]]
 file = "mods/hexcellular.pw.toml"
 hash = "2602dfe116196398f2da45b2e25cdb1572bdf24b6c5a00025fdc3140f698160b"
 metafile = true
@@ -891,8 +887,8 @@ file = "mods/hexical-2.0.0.jar"
 hash = "3ad41c861d865defcc09330bbb13f3af7e7ef366c89250e2e1caec15c968d919"
 
 [[files]]
-file = "mods/hexmu-1.1.2.jar"
-hash = "5f53c743cc9de08f1c7ecb9e7b536a424ed771f23bf54adf2d98b1e07c1ce103"
+file = "mods/hexmu-1.1.3-SNAPSHOT.jar"
+hash = "18d85c6f8fce65c133105a45b60697bf26c1fa5d6fc45538923b71b598bf4c12"
 
 [[files]]
 file = "mods/hexmu.pw.toml"
